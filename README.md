@@ -11,5 +11,6 @@
 
 ## Structural
 - [Adapter](adapter.py)
+- [Bridge](bridge.py)
 
 ## Behavioral
