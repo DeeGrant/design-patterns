@@ -1,14 +1,15 @@
 # design-patterns
 
 ## Creational
-- [Factory Method](factory-method.py)
 - [Abstract Factory](abstract-factory.py)
+- [Builder](builder.py)
+- [Factory Method](factory-method.py)
 - [Prototype](prototype.py)
 - Singleton
   - [Naive](singleton-naive.py)
   - [Thread Safe](singleton-thread-safe.py)
-- [Builder](builder.py)
-
-## Behavioral
 
 ## Structural
+- [Adapter](adapter.py)
+
+## Behavioral
