@@ -14,7 +14,7 @@
 - [Bridge](bridge.py)
 - [Composite](composite.py)
 - [Decorator](decorator.py)
-- [Flyweight]()
+- [Flyweight](flyweight.py)
 
 ## Behavioral
 
