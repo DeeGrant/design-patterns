@@ -13,5 +13,6 @@
 - [Adapter](adapter.py)
 - [Bridge](bridge.py)
 - [Composite](composite.py)
+- [Decorator](decorator.py)
 
 ## Behavioral
