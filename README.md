@@ -14,5 +14,12 @@
 - [Bridge](bridge.py)
 - [Composite](composite.py)
 - [Decorator](decorator.py)
+- [Flyweight]()
 
 ## Behavioral
+
+
+### Sources
+Walking through code and explanations from:
+- [Refactoring Guru](https://refactoring.guru)
+- [Refactoring Guru GitHub](https://github.com/RefactoringGuru)
