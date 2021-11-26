@@ -18,7 +18,7 @@
 - [Proxy](proxy.py)
 
 ## Behavioral
-
+- [Chain of Responsibility](chain-of-responsibility.py)
 
 ### Sources
 Walking through code and explanations from:
