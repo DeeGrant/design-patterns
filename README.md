@@ -15,6 +15,7 @@
 - [Composite](composite.py)
 - [Decorator](decorator.py)
 - [Flyweight](flyweight.py)
+- [Proxy](proxy.py)
 
 ## Behavioral
 
