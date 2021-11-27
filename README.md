@@ -20,7 +20,8 @@
 ## Behavioral
 - [Chain of Responsibility](chain-of-responsibility.py)
 - [Command](command.py)
-- [iterator](iterator.py)
+- [Iterator](iterator.py)
+- [Mediator](mediator.py)
 
 ### Sources
 Walking through code and explanations from:
