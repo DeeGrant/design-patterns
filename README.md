@@ -23,6 +23,7 @@
 - [Iterator](iterator.py)
 - [Mediator](mediator.py)
 - [Memento](memento.py)
+- [Observer](observer.py)
 
 ### Sources
 Walking through code and explanations from:
