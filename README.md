@@ -24,6 +24,7 @@
 - [Mediator](mediator.py)
 - [Memento](memento.py)
 - [Observer](observer.py)
+- [State](state.py)
 
 ### Sources
 Walking through code and explanations from:
