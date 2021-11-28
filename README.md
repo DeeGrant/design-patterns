@@ -25,6 +25,7 @@
 - [Memento](memento.py)
 - [Observer](observer.py)
 - [State](state.py)
+- [Strategy](strategy.py)
 
 ### Sources
 Walking through code and explanations from:
