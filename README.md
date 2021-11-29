@@ -27,6 +27,7 @@
 - [State](state.py)
 - [Strategy](strategy.py)
 - [Template Method](template-method.py)
+- [Visitor](visitor.py)
 
 ### Sources
 Walking through code and explanations from:
