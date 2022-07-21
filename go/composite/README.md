@@ -1,0 +1,13 @@
+# Composite
+
+`go run .`
+
+Output
+
+```
+Searching recursively for keyword rose in folder Folder2
+Searching for keyword rose in file File2
+Searching for keyword rose in file File3
+Searching recursively for keyword rose in folder Folder1
+Searching for keyword rose in file File1
+```

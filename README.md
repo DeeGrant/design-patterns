@@ -1,6 +1,7 @@
 # design-patterns
 
 ## Languages
+- [Go](go)
 - [Python](python)
 
 ### Sources
