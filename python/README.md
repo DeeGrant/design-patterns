@@ -31,5 +31,5 @@
 
 ### Sources
 Walking through code and explanations from:
-- [Refactoring Guru](https://refactoring.guru)
-- [Refactoring Guru GitHub](https://github.com/RefactoringGuru)
+- [Refactoring Guru - Python](https://refactoring.guru/design-patterns/python)
+- [Refactoring Guru GitHub - Python](https://github.com/RefactoringGuru/design-patterns-python)
